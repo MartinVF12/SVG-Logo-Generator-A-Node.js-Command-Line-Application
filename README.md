@@ -28,4 +28,6 @@ Contributions to the SVG Logo Generator are welcome. Please ensure you follow th
 GITHUB: https://github.com/MartinVF12/SVG-Logo-Generator-A-Node.js-Command-Line-Application 
 
 <img width="1064" alt="Captura de pantalla 2024-03-05 a la(s) 12 51 36 p m" src="https://github.com/MartinVF12/SVG-Logo-Generator-A-Node.js-Command-Line-Application/assets/152545821/accb9690-d8f4-4017-956d-77f17edf7adf">
-![Captura de pantalla 2024-03-05 a la(s) 1 00 38 p m](https://github.com/MartinVF12/SVG-Logo-Generator-A-Node.js-Command-Line-Application/assets/152545821/ace96071-876a-4ca4-90dc-eb17f58da6b5)
+
+
+![Captura de pantalla 2024-03-05 a la(s) 1 00 38 p m](https://github.com/MartinVF12/SVG-Logo-Generator-A-Node.js-Command-Line-Application/assets/152545821/94d7bede-8b1c-4bb5-9b6a-8723ae24376f) 
