@@ -26,6 +26,7 @@ Generated logo.svg
 Contributions to the SVG Logo Generator are welcome. Please ensure you follow the Contributing Guidelines when proposing changes.
 
 GITHUB: https://github.com/MartinVF12/SVG-Logo-Generator-A-Node.js-Command-Line-Application 
+YOUTUBE VIDEO: https://youtu.be/2SatuXL5XbE 
 
 <img width="1064" alt="Captura de pantalla 2024-03-05 a la(s) 12 51 36 p m" src="https://github.com/MartinVF12/SVG-Logo-Generator-A-Node.js-Command-Line-Application/assets/152545821/accb9690-d8f4-4017-956d-77f17edf7adf">
 
